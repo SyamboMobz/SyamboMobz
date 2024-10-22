@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ${@print(system("./tmp/hak.sh"))}🪽
+
 | Live the life you have imagined |
+
 https://rootcon.org/
 
-https://revshitt.xyz/
 • 𝕽𝔬𝔬𝔱𝔠𝔬𝔫
 
-• 𝕽𝖊𝖛𝖘𝖍𝖎𝖙
 <p align = center >
 <div>
 alt="Toosii"
