@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.discordapp.com/attachments/1067823764869480590/1100596105596641290/New_Project.png">
 </p>
 <div>
-<img align="right" width="400" alt="Devy" src="https://media.discordapp.net/attachments/1000261872827768872/1100596752068919368/d2a0975e5f0b77805ac122c36eaec671.jpg"/>
+<img align="right" width="400" alt="Toosii" src="https://media.discordapp.net/attachments/1000261872827768872/1100596752068919368/d2a0975e5f0b77805ac122c36eaec671.jpg"/>
 <h2> // about-me </h2>
 - 💗 17 | Philippines
 - 🧊 <a href="https://discord.gg/revshit">Revshit 神</a>
