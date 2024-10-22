@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
 
-[![widget](https://invidget.switchblade.xyz/rootcon)](https://discord.gg/rootc)
+[![widget](https://invidget.switchblade.xyz/rootcon)](https://rootc.onl/discord)
 
 </div>
 
