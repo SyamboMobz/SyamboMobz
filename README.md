@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 ${@print(system("./tmp/hak.sh"))}
 |Live the life you have imagined|
 
-https://rootcon.org/🪽
-• 𝕽𝔬𝔬𝔱𝔠𝔬𝔫
+https://rootcon.org/
+• 𝕽𝔬𝔬𝔱𝔠𝔬𝔫🪽
 
 <p align = center >
 <div>
