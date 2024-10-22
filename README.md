@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 <h2> // about-me </h2>
 - 💗 17 | Philippines
 - 🧊 <a href="https://discord.gg/revshit">Revshit 神</a>
-<h2> // socials </h2>
-- <a href="https://youtube.com/@zdevilish1337">YouTube</a>
-- <a href="https://t.me/devykindasus">Telegram</a>
 <h2> // revshit </h2>
 <img src = "https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt = "lua"/>
 <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt = "python"/>
