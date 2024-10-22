@@ -1,5 +1,5 @@
 ### Hi there 👋
-### ${@print(system("./tmp/hak.sh"))}🪽
+### I'm Toosii./Stussy
 <!--
 **zdielmobs/zdielmobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -12,11 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+${@print(system("./tmp/hak.sh"))}🪽
 | Live the life you have imagined |
 https://rootcon.org/
 
 https://revshitt.xyz/
 • 𝕽𝔬𝔬𝔱𝔠𝔬𝔫
+
 • 𝕽𝖊𝖛𝖘𝖍𝖎𝖙
 <p align = center >
 <div>
