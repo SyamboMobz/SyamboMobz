@@ -12,11 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-${@print(system("./tmp/hak.sh"))}
-|Live the life you have imagined|
-
-https://rootcon.org/
-• 𝕽𝔬𝔬𝔱𝔠𝔬𝔫🪽
+- ${@print(system("./tmp/hak.sh"))}
+- https://rootcon.org/
+- • 𝕽𝔬𝔬𝔱𝔠𝔬𝔫🪽
 
 <p align = center >
 <div>
