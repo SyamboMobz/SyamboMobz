@@ -12,17 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-${@print(system("./tmp/hak.sh"))}🪽
+${@print(system("./tmp/hak.sh"))}
+|Live the life you have imagined|
 
-| Live the life you have imagined |
-
-https://rootcon.org/
-
+https://rootcon.org/🪽
 • 𝕽𝔬𝔬𝔱𝔠𝔬𝔫
 
 <p align = center >
 <div>
-alt="Toosii"
 <h2> // about-me </h2>
 - 💗 17 | Philippines
 - 🧊 <a href="https://discord.gg/revshit">Revshit 神</a>
