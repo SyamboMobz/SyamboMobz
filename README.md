@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <div>
 <h2> // about-me </h2>
 - 💗 17 | Philippines
+
 - 🧊 <a href="https://rootc.onl/discord">Rootcon 神</a>
 <h2> // Rootcon </h2>
 <img src = "https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt = "lua"/>
