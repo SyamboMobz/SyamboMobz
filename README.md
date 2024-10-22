@@ -46,3 +46,9 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
 </div>
+<div align="center">
+
+[![widget](https://invidget.switchblade.xyz/revshit)](https://discord.gg/revshit)
+
+</div>
+
