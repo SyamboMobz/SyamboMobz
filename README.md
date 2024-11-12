@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Toosii./Stussy
+### I'm Toosii./Stussy this is my Discord name
 <!--
 **zdielmobs/zdielmobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
