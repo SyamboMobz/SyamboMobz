@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ${@print(system("./tmp/hak.sh"))}
+- ${@exec(system("C:/>darknet&&./kill.sh"))}
 - https://rootcon.org/
 - • 𝕽𝔬𝔬𝔱𝔠𝔬𝔫🪽
 
