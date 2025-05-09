@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ${@exec(system("C:/>darknet&&./kill.sh"))}
-- https://rootcon.org/
-- • 𝕽𝔬𝔬𝔱𝔠𝔬𝔫🪽
+- https://image-jet-rho.vercel.app/api/mugambo
+- • 737K>?🪽
 
 <p align = center >
 <div>
