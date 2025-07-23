@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ${@exec(system("C:/>OxPOL3N&&./C2.sh"))}
+- ${@exec(system("C:/>OxArch&&./C2.sh"))}
 - https://image-jet-rho.vercel.app/api/mugambo
 - • 737K>?🪽
 
