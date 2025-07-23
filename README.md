@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Toosii./Stussy this is my Discord
-### my server 130kSouthside Mugambo Community 
+### my server 737k Mugambo Community 
 <!--
 **zdielmobs/zdielmobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ${@exec(system("C:/>darknet&&./kill.sh"))}
+- ${@exec(system("C:/>OxPOL3N&&./C2.sh"))}
 - https://image-jet-rho.vercel.app/api/mugambo
 - • 737K>?🪽
 
