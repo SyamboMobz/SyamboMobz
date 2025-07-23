@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h2> // about-me </h2>
 -  💗 17 | Philippines
 
-- 🧊 <a href="https://rootc.onl/discord">Polen 神</a>
+- 🧊 <a href="https://discord.gg/FeEYedg8fs">Polen 神</a>
 <h2> // MyGames </h2>
 <img src = "https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt = "lua"/>
 <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt = "python"/>
@@ -52,7 +52,9 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
 
-[![widget](https://invidget.switchblade.xyz/revshit)](https://discord.gg/revshit)
+<p align="center">
+  <img src="https://api.cybervilla.xyz/scripted.gif" alt="GIF">
+</p>
 
 </div>
 
