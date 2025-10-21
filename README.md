@@ -1,4 +1,3 @@
-### Hi there 👋
 [![SAMBO - Sequential And Model-Based Optimization](logo.svg)](https://sambo-optimization.github.io/)
 =====
 [![Build Status](https://img.shields.io/github/actions/workflow/status/sambo-optimization/sambo/ci.yml?branch=master&style=for-the-badge)](https://github.com/sambo-optimization/sambo/actions)
