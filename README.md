@@ -8,15 +8,15 @@ https://image-jet-rho.vercel.app/api/mugambo
 - ㅤ  ㅤ  ㅤ    ~$Root@Ox101🥷
 - ㅤㅤstruct group_info = {.F̸s̷o̸c̶i̶e̷t̸y}
 -  ㅤ ${@print(system('./root/C2.sh'))}
--    ㅤ  ㅤ    ㅤ  ㅤㅤ  ㅤ  737K🪽
+-   ㅤ  ㅤ  ㅤ  ㅤ  ㅤ737K🪽
 
 <p align = center >
 <div>
-<h2> About-me </h2>
+<h2> about-me </h2>
 -  💗 17 | Philippines
 
 - 🧊 <a href="https://discord.gg/FeEYedg8fs">Polen 神</a>
-<h2> MyGames </h2>
+<h2> my games </h2>
 <img src = "https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt = "lua"/>
 <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt = "python"/>
 <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt = "c"/>
