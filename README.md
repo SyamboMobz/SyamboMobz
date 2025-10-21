@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ㅤ ㅤ ㅤ    ~$Root@Ox101🥷
--   ㅤstruct group_info = {.F̸s̷o̸c̶i̶e̷t̸y}
-- ㅤ ${@print(system('./root/C2.sh'))}
+- ㅤㅤstruct group_info = {.F̸s̷o̸c̶i̶e̷t̸y}
+- ㅤ${@print(system('./root/C2.sh'))}
 - https://image-jet-rho.vercel.app/api/mugambo
 -  737K?🪽
 
