@@ -8,7 +8,7 @@ https://image-jet-rho.vercel.app/api/mugambo
 - ㅤ  ㅤ  ㅤ    ~$Root@Ox101🥷
 - ㅤㅤstruct group_info = {.F̸s̷o̸c̶i̶e̷t̸y}
 -  ㅤ ${@print(system('./root/C2.sh'))}
--    ㅤ  ㅤ  ㅤ  ㅤ  737K🪽
+-    ㅤ  ㅤ    ㅤ  ㅤㅤ  ㅤ  737K🪽
 
 <p align = center >
 <div>
