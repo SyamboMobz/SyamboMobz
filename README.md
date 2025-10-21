@@ -1,10 +1,9 @@
 ### Hi there 👋
------------
-
 ### I'm Toosii./Stussy this is my Discord
 ### My server 737k Mugambo Community 
 <!--
 -->
+-----------
 - ㅤ  ㅤ  ㅤ    ~$Root@Ox101🥷
 - ㅤㅤstruct group_info = {.F̸s̷o̸c̶i̶e̷t̸y}
 -  ㅤ ${@print(system('./root/C2.sh'))}
