@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ㅤ ㅤ       ~$Root@Ox101🥷
-ㅤ struct group_info = {.F̸s̷o̸c̶i̶e̷t̸y}
-${@print(system('./root/C2.sh'))}
+- ㅤ ㅤ  ~$Root@Ox101🥷
+-ㅤ struct group_info = {.F̸s̷o̸c̶i̶e̷t̸y}
+-${@print(system('./root/C2.sh'))}
 - https://image-jet-rho.vercel.app/api/mugambo
-- • 737K>?🪽
+- • 737K?🪽
 
 <p align = center >
 <div>
